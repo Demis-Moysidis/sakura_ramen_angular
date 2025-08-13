@@ -1,0 +1,17 @@
+div {
+    background-color: rgb(8, 12, 23);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 40px;
+
+
+    img {
+        width: 250px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+}
